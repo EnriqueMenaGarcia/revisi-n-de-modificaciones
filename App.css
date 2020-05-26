@@ -1,0 +1,79 @@
+h3,p {
+
+  font-family:Arial;
+  color: black;
+   background-color:pink;
+
+
+ }
+.Navbar{
+  background-color:pink;
+}
+.title {
+    color:#000000;
+    font-family: Calibri Light;
+font-size:75px;
+color: white;
+
+      position:relative;
+  top:50%; 
+  left:44%;
+
+
+}
+
+/*Aqui le das los parametros a cada una de las etiquetas*/
+
+body{
+  position: relative;
+ 
+  text-align: center;
+ background-image: url("https://static8.depositphotos.com/1007388/1008/i/950/depositphotos_10086234-stock-photo-soft-pink-background.jpg");
+  background-color: #e3e1e5;
+ 
+}
+
+
+button{
+
+width: 160px;
+height: 50px; 
+text-align: center;
+text-align: center;
+color:black;
+background-color:#fff8dc;
+font-family:Arial Black;
+
+}
+
+
+
+.footer,h2{
+  position:fixed;
+   left:0px;
+   bottom:0px;
+   height:40px;
+   width:100%;
+   background-color:#bdbdbd;
+   
+
+}
+
+.card{
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+}
+
+.carousel,img{
+  width: relative;
+  height: 500px; 
+
+  width:10px;
+}
+.form .Row .Group.Control.Label{
+position:fixed;
+}
+.table{
+  background-color:white;
+}
